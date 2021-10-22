@@ -1,1 +1,0 @@
-export const calculation = (a, b) => a + b;
